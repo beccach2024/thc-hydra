@@ -206,8 +206,8 @@ typedef struct {
   int32_t conwait;  // is external - for restore
   uint32_t port;    // is external - for restore
   char *miscptr;
-  char *server;
-  char *service;
+  char *server;https://pos.chowbus.com/user/login
+  char *service;https:
   char bfg;
   int32_t skip_redo;
 } hydra_option;
