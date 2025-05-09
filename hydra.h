@@ -206,7 +206,7 @@ typedef struct {
   int32_t conwait;  // is external - for restore
   uint32_t port;    // is external - for restore
   char *miscptr;
-  char *server;
+  char *server;https://pos.chowbus.com/user/login
   char *service;
   char bfg;
   int32_t skip_redo;
